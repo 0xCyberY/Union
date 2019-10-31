@@ -1,0 +1,40 @@
+Enter the number of employees:
+2
+Enter employeeNumber
+11
+number is 11
+
+Enter employeeName
+ali
+name is ali
+
+Enter employeeDepartment
+CSE
+department is CSE
+
+Enter employeeAge
+23
+age is 23
+
+Enter employeeSalary
+65000
+salary is 65000
+
+Enter employeeNumber
+ahmed
+number is 0
+
+Enter employeeName
+name is ahmed
+
+Enter employeeDepartment
+ME
+department is ME
+
+Enter employeeAge
+20
+age is 20
+
+Enter employeeSalary
+50000
+salary is 50000
